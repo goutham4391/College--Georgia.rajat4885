@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.georgiasouthern.edu	TRUE	/	FALSE	1999999999	PHPSESSID	c156b15027c47d33c48a6a99a41bc2bb
+
